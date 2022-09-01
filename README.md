@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I have been a (Net&Java) developer for 8 years.  
+Recently, I found that my code was not elegant enough, so I decided to learn from others.
+
+
+### Find Me 📫
++ 2363613998@qq.com
