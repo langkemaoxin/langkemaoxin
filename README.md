@@ -23,6 +23,9 @@ https://langkemaoxin.github.io/
 ### My Diary(Update Every Day)
 https://github.com/langkemaoxin/MyDiary
 
+### TrendRadar crawler
+https://github.com/langkemaoxin/TrendRadar
+
 ### Daily Work
 上午晚上学习GO，Web3相关的知识。下午学习AI，完成工作上的事情。通勤学习英语，空闲时间关注好用的Github仓库
 
