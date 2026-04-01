@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 I have been a (Net&Java) developer for 8 years.  
 Recently, I found that my code was not elegant enough, so I decided to learn from others.
 
+## My Blog WebSite 
+https://langkemaoxin.github.io/
+
+## My Diary(Update Every Day)
+https://github.com/langkemaoxin/MyDiary
 
 ### Find Me 📫
 + 2363613998@qq.com
