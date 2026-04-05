@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I have been a (Net&Java) developer for 8 years.  
+I have been a (Net&Java) developer for 12 years at Chengdu,SiChuan Province.  
 Recently, I found that my code was not elegant enough, so I decided to learn from others.
 
 ### My Blog WebSite 
