@@ -21,10 +21,10 @@ Recently, I found that my code was not elegant enough, so I decided to learn fro
 https://code-corey.github.io/
 
 ### My Diary(Update Every Day)
-https://github.com/langkemaoxin/MyDiary
+https://github.com/code-corey/MyDiary
 
 ### TrendRadar crawler
-https://github.com/langkemaoxin/TrendRadar
+https://github.com/code-corey/TrendRadar
 
 ### Daily Work
 Foucs On English And AI,Like to Explore Funny Github Repository
