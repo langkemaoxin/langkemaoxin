@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 I have been a (Net&Java) developer for 12 years at Chengdu,SiChuan Province.  
 Recently, I found that my code was not elegant enough, so I decided to learn from others.
 
+## Daily Work
+Foucs On English And AI,Like to Explore Funny Github Repository
+
+
 ### My Blog WebSite 
 https://code-corey.github.io/
 
@@ -26,8 +30,7 @@ https://github.com/code-corey/MyDiary
 ### TrendRadar crawler
 https://github.com/code-corey/TrendRadar
 
-### Daily Work
-Foucs On English And AI,Like to Explore Funny Github Repository
+
 
 ### Find Me 📫
 + 2363613998@qq.com
