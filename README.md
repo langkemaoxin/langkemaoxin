@@ -21,10 +21,12 @@ Recently, I found that my code was not elegant enough, so I decided to learn fro
 Foucs On English And AI,Like to Explore Funny Github Repository
 
 
-### My Blog WebSite 
+### My Blog WebSite
+> Use To Record What's I Learn
 https://code-corey.github.io/
 
-### My Diary(Update Every Day)
+### My Diary With What's I Thinking About 
+> Update Every Day
 https://github.com/code-corey/MyDiary
 
 ### TrendRadar crawler
