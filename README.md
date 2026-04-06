@@ -18,7 +18,7 @@ I have been a (Net&Java) developer for 12 years at Chengdu,SiChuan Province.
 Recently, I found that my code was not elegant enough, so I decided to learn from others.
 
 ### My Blog WebSite 
-https://langkemaoxin.github.io/
+https://code-corey.github.io/
 
 ### My Diary(Update Every Day)
 https://github.com/langkemaoxin/MyDiary
