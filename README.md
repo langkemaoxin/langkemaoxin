@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I have been a (Net&Java) developer for 12 years at Chengdu,SiChuan Province.  
-Recently, I found that my code was not elegant enough, so I decided to learn from others.
+
+Recently, I Fall In Love With AI.
 
 ## Daily Work
 Foucs On English And AI,Like to Explore Funny Github Repository
