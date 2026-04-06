@@ -31,3 +31,6 @@ Foucs On English And AI,Like to Explore Funny Github Repository
 
 ### Find Me 📫
 + 2363613998@qq.com
+
+## 
+A large number of records can really change one's destiny.
