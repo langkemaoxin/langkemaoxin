@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I have been a (Net&Java) developer for 12 years at Chengdu,SiChuan Province.  
 
-Recently, I Fall In Love With AI.
+Recently, I Focus on AI.
 
 ## Daily Work
 Foucs On English And AI,Like to Explore Funny Github Repository
